@@ -1,3 +1,161 @@
+# v2.1.120 (2025-09-16)
+
+* Added support for Lit (`*.lit.{js|ts|jsx|cjs}`)
+* Added support for Cocos Creator (`.prefab`, `.scene`)
+
+# v2.1.119 (2025-05-20)
+
+* Debug icon for tarking
+
+# v2.1.118 (2025-05-07)
+
+* Extended support for Stylelint (`.stylelintcache`)
+
+# v2.1.117 (2025-05-03)
+
+* Extended support for Docker (`.containerignore`)
+* Added support for SignalStore (`*.actions.{ts|js|jsx|cjs}`, `*.reducer.{ts|js|jsx|cjs}`, `*.selectors.{ts|js|jsx|cjs}`, `*.effects.{ts|js|jsx|cjs}`)
+
+# v2.1.116 (2025-03-20)
+
+* Added support for typst (`*.typ`)
+* Added support for typescript (`*.interface.ts`)
+* Added support for tarkine (*.tark`)
+
+# v2.1.115 (2025-02-26)
+
+* Debugged conf icons folder
+* Debugged changelog error
+
+# v2.1.114 (2025-02-25)
+
+* Changed icon for Verilog, and extended support (`*.v`, `*.vo`, `*.vh`, `*.sv`, `*.svh`, `*.vhd`, `*.vhdl`, `*.vlg`, `*.verilog`)
+
+# v2.1.113 (2025-02-05)
+
+* Added support for taskfile (`taskfile{.dev|.dist}.{yml|yaml}`)
+
+# v2.1.112 (2025-01-07)
+
+* Extended support for config folders (`config`, `conf`, `configs`)
+* Added support for Denizen (`*.dsc`)
+
+# v2.1.111 (2024-11-20)
+
+* New official CSS icon
+* Image folder used for `pics`, `pictures` and `icons` foldernames
+
+# v2.1.110 (2024-11-02)
+
+* Better icon for cueq
+
+# v2.1.109 (2024-10-27)
+
+* Debugged icton for cursor settings
+* Added support for cue (`*.cue`)
+
+# v2.1.108 (2024-10-10)
+
+* Added support for cursor settings file (`.cursorrule`)
+
+# v2.1.107 (2024-09-16)
+
+* Extended support for tests files, with notably `*.test-d.{js,cjs,ts,tsx}`
+* That's my birthday. Just so you know.
+
+# v2.1.106 (2024-08-14)
+
+* Added support for OpenCL (`*.cl`)
+* Extended support for folders (`(_)data`, `(_)layout(s)`, `(_)service(s)`, `src`, `pages`, `(_)util(s)`)
+
+# v2.1.105 (2024-05-10)
+
+* New preview image
+
+# v2.1.104 (2024-04-08)
+
+* Extended support for esling new formats `eslint.config.{js,mjs,cjs}`. Thanks @lmeysel
+* Changed icon for C#.
+* Added support for Valgrind suppression files (`*.supp`). Thanks @kosude
+
+
+# v2.1.103 (2024-04-06)
+
+* Extended support for `.env` files with `accept` and `acceptance`
+* Extended support for `*.jenkinsfile` files
+* Upgraded C icon (thanks @sunbines)
+* Added `poetry.lock` support
+* Extended docker support for `docker.yml` and `docker.yaml`
+* Added support for Groovy
+* Extended support for mocha test files format
+* Added partial support for swi-prolog files with `*.pro` extension
+* Extended support for graphql extensions with schema files `*.graphqls` and `*.gqls`
+* Added support for PRQL format `*.prql`
+* Added support for SQLbook `*.sqlbook`
+* Added support for VR test `*.vr.js`, `*.vr.ts`, `*.vr.cjs`
+* Added support for flow-typed `flow-typed.config.json`
+
+
+# v2.1.99 & v2.1.100 & v2.1.101 & v2.1.102 (2023-09-18)
+
+* Added support for cypress, with folder, files with `*.cy.{js,ts,jsx}`, and config files.
+* Changed Go icon for a more classic one and support for `go.mod` file
+* Added support for Objective-C language ID
+* Added support for Objective-C++ language ID and `*.mm`
+* Added support for batch files
+
+# v2.1.98 (2023-09-03)
+
+* Added support for zig language (`*.zig`)
+* Added support for brainfuck language (`*.bf`, `*.b`)
+* Added support for cython (`*.pyx`, `*.pxd`)
+
+# v2.1.96 && v2.1.97 (2023-08-07)
+
+* Debug folder icons default
+* Added support for xi markup (`*.vi`)
+
+# v2.1.94 & v2.1.95 (2023-08-05)
+
+* Changed icon for NextJS
+* Added new folder icons (`.gitlab`, `bak`, `backup/s`, `config`, `db`, `database/s`, `i18n`, `lang`, `language/s`, `save/s`, `sql`, `sql_schema`, `sqlite`, `theme/s`, `view/s`, `app`, `.next`)
+* Added multiple languagesID
+
+# v2.1.93 (2023-05-16)
+
+* Added support for avalonia ui (`*.axaml`, `*.axaml.cs`)
+* Added support for marko (`*.marko`)
+* Added support for firebase (`.firebaserc`, `firebase.json`, `firebase.js`, `firebase.ts`, `firebase.cjs`)
+* Added support for properties files (`*.properties`)
+* Better icon for makefiles
+
+# v2.1.92 (2023-03-24)
+
+* Added support for `*nim` files — thanks @RatoGBM
+
+# v2.1.91 (2023-03-01)
+
+* Extended multiple support files with mjs format — thanks @massimo-cassandro
+* Changed icon color for `*.ico` files
+
+# v2.1.90 (2022-12-29)
+
+* Extended support for OpenGL
+
+# v2.1.87 & v2.1.88 & v2.1.89 (2022-12-17)
+
+* Added support for Godot
+* Added support for Tailwind
+* Added support for Pnpm
+* Added support for Assembly
+* Added support for Sentry
+* Added support for Bicep
+* Extended support for Browserslist
+* Debugged prettierrc file
+* Added support for Vercel
+* Added support for NextJS
+* Extended support for docker
+
 # v2.1.86 (2022-04-08)
 
 * Debug a few files
